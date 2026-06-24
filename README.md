@@ -1,2 +1,22 @@
 # SP-500
-An end-to-end business intelligence project analyzing S&amp;P 500 companies using SQL server and Power BI. The dashboard explores financial performance, market value, workforce distribution, and stock market trends through interactive visualizations and KPIs 
+## Overview
+A Power BI and SQL Server Project analyzing S&P 500 companies and index performance
+## Tools Used
+-Excel
+-Power BI
+-DAX
+-SQL Server
+## Dashboards
+## Companies Dahboard
+-Market capitalization
+-EBITDA Analysis
+-Revenue Growth Analysis
+-Company size by State
+## Index Dashboard
+-Index trend over time
+-Daily Change analysis
+-Monthly Average trend
+## Files
+-SP500_Dashboard.pbix
+-SP500. xlsx
+-SP500.ssms
