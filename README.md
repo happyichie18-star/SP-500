@@ -51,11 +51,3 @@ The project uses the following datasets:
 - Project Documentation
   ## Author
 Ichie Happiness
-
-
-
-
-
-  Ichie Happiness
--SP500. xlsx
--SP500.ssm
