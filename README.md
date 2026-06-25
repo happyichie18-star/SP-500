@@ -48,6 +48,7 @@ The project uses the following datasets:
 - SP500_ Dahboard pbix
 - Company and index Dataset
 - Dashboard Screenshots
+- SQL Queries
 - Project Documentation
   ## Author
 Ichie Happiness
