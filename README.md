@@ -17,7 +17,7 @@ The project uses the following datasets:
 1. Company financial Data
 -Company Name
 -Market Capitalization
--Revenue grwoth
+-Revenue growth
 -EBITDA
 -Number of employees
 -Weight
