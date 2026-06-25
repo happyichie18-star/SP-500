@@ -6,7 +6,7 @@ The project aims to answer the following business questions:
 -Which companies have the highest market capitalization?
 -Which companies generates the highest Earnings Before Income, Tax, Depriciation and Amortization (EBITDA)
 ?-How has the S&P 500 index changed over time?
--What are the monthly ad daily trends in index performance?
+-What are the monthly and daily trends in index performance?
 ## Tools Used
 -Excel
 -Power BI
