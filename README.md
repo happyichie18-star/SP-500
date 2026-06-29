@@ -1,6 +1,6 @@
 # SP-500
 ## Overview
-Thi project analyzes S&P 500 companies and index performance using Power BI and SQL Server. The goal is to transform raw financial and market data into interactive dashboards that provide insights into the company performance, market capitalization, and profitability.
+This project analyzes S&P 500 companies and index performance using Power BI and SQL Server. The goal is to transform raw financial and market data into interactive dashboards that provide insights into the company performance, market capitalization, and profitability.
 ## Objectives
 The project aims to answer the following business questions:
 -Which companies have the highest market capitalization?
